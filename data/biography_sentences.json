@@ -1,0 +1,142 @@
+[
+  {
+    "sentence": "Albert Einstein was born in Ulm on 14 March 1879.",
+    "who": "Albert Einstein",
+    "did_what": "was born",
+    "where": ["Ulm"],
+    "when": "14 March 1879"
+  },
+  {
+    "sentence": "Marie Curie was born in Warsaw on 7 November 1867.",
+    "who": "Marie Curie",
+    "did_what": "was born",
+    "where": ["Warsaw"],
+    "when": "7 November 1867"
+  },
+  {
+    "sentence": "Isaac Newton was born in Woolsthorpe on 25 December 1642.",
+    "who": "Isaac Newton",
+    "did_what": "was born",
+    "where": ["Woolsthorpe"],
+    "when": "25 December 1642"
+  },
+  {
+    "sentence": "Charles Darwin was born in Shrewsbury on 12 February 1809.",
+    "who": "Charles Darwin",
+    "did_what": "was born",
+    "where": ["Shrewsbury"],
+    "when": "12 February 1809"
+  },
+  {
+    "sentence": "Ada Lovelace was born in London on 10 December 1815.",
+    "who": "Ada Lovelace",
+    "did_what": "was born",
+    "where": ["London"],
+    "when": "10 December 1815"
+  },
+  {
+    "sentence": "Alan Turing was born in London on 23 June 1912.",
+    "who": "Alan Turing",
+    "did_what": "was born",
+    "where": ["London"],
+    "when": "23 June 1912"
+  },
+  {
+    "sentence": "Nikola Tesla was born in Smiljan on 10 July 1856.",
+    "who": "Nikola Tesla",
+    "did_what": "was born",
+    "where": ["Smiljan"],
+    "when": "10 July 1856"
+  },
+  {
+    "sentence": "Galileo Galilei was born in Pisa on 15 February 1564.",
+    "who": "Galileo Galilei",
+    "did_what": "was born",
+    "where": ["Pisa"],
+    "when": "15 February 1564"
+  },
+  {
+    "sentence": "Leonardo da Vinci was born in Vinci on 15 April 1452.",
+    "who": "Leonardo da Vinci",
+    "did_what": "was born",
+    "where": ["Vinci"],
+    "when": "15 April 1452"
+  },
+  {
+    "sentence": "Mahatma Gandhi was born in Porbandar on 2 October 1869.",
+    "who": "Mahatma Gandhi",
+    "did_what": "was born",
+    "where": ["Porbandar"],
+    "when": "2 October 1869"
+  },
+  {
+    "sentence": "Abraham Lincoln was born in Hodgenville on 12 February 1809.",
+    "who": "Abraham Lincoln",
+    "did_what": "was born",
+    "where": ["Hodgenville"],
+    "when": "12 February 1809"
+  },
+  {
+    "sentence": "Napoleon Bonaparte was born in Ajaccio on 15 August 1769.",
+    "who": "Napoleon Bonaparte",
+    "did_what": "was born",
+    "where": ["Ajaccio"],
+    "when": "15 August 1769"
+  },
+  {
+    "sentence": "Sigmund Freud was born in Freiberg on 6 May 1856.",
+    "who": "Sigmund Freud",
+    "did_what": "was born",
+    "where": ["Freiberg"],
+    "when": "6 May 1856"
+  },
+  {
+    "sentence": "Vincent van Gogh was born in Groot-Zundert on 30 March 1853.",
+    "who": "Vincent van Gogh",
+    "did_what": "was born",
+    "where": ["Groot-Zundert"],
+    "when": "30 March 1853"
+  },
+  {
+    "sentence": "Pablo Picasso was born in Malaga on 25 October 1881.",
+    "who": "Pablo Picasso",
+    "did_what": "was born",
+    "where": ["Malaga"],
+    "when": "25 October 1881"
+  },
+  {
+    "sentence": "Wolfgang Mozart was born in Salzburg on 27 January 1756.",
+    "who": "Wolfgang Mozart",
+    "did_what": "was born",
+    "where": ["Salzburg"],
+    "when": "27 January 1756"
+  },
+  {
+    "sentence": "Jane Austen was born in Steventon on 16 December 1775.",
+    "who": "Jane Austen",
+    "did_what": "was born",
+    "where": ["Steventon"],
+    "when": "16 December 1775"
+  },
+  {
+    "sentence": "Florence Nightingale was born in Florence on 12 May 1820.",
+    "who": "Florence Nightingale",
+    "did_what": "was born",
+    "where": ["Florence"],
+    "when": "12 May 1820"
+  },
+  {
+    "sentence": "Thomas Edison was born in Milan on 11 February 1847.",
+    "who": "Thomas Edison",
+    "did_what": "was born",
+    "where": ["Milan"],
+    "when": "11 February 1847"
+  },
+  {
+    "sentence": "Rosalind Franklin was born in London on 25 July 1920.",
+    "who": "Rosalind Franklin",
+    "did_what": "was born",
+    "where": ["London"],
+    "when": "25 July 1920"
+  }
+]

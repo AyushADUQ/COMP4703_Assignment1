@@ -1,0 +1,83 @@
+We	PRON
+can	AUX
+fish	VERB
+
+They	PRON
+will	AUX
+go	VERB
+
+I	PRON
+can	AUX
+swim	VERB
+
+The	DET
+can	NOUN
+is	AUX
+empty	ADJ
+
+Open	VERB
+the	DET
+can	NOUN
+
+Janet	PROPN
+will	AUX
+back	VERB
+the	DET
+bill	NOUN
+
+The	DET
+committee	NOUN
+will	AUX
+back	VERB
+the	DET
+bill	NOUN
+
+Albert	PROPN
+Einstein	PROPN
+was	AUX
+born	VERB
+in	ADP
+Ulm	PROPN
+
+Marie	PROPN
+Curie	PROPN
+was	AUX
+born	VERB
+in	ADP
+Warsaw	PROPN
+
+Isaac	PROPN
+Newton	PROPN
+was	AUX
+born	VERB
+in	ADP
+England	PROPN
+
+The	DET
+famous	ADJ
+scientist	NOUN
+was	AUX
+born	VERB
+
+She	PRON
+gave	VERB
+the	DET
+prize	NOUN
+to	ADP
+him	PRON
+
+He	PRON
+read	VERB
+the	DET
+book	NOUN
+
+The	DET
+dog	NOUN
+barked	VERB
+
+A	DET
+famous	ADJ
+author	NOUN
+wrote	VERB
+a	DET
+book	NOUN

@@ -1,0 +1,51 @@
+[
+  {
+    "sentence": "Marie Curie won the Nobel Prize in Physics in 1903.",
+    "who": "Marie Curie",
+    "did_what": "won",
+    "where": [],
+    "when": "1903"
+  },
+  {
+    "sentence": "Charles Darwin published On the Origin of Species in 1859.",
+    "who": "Charles Darwin",
+    "did_what": "published",
+    "where": [],
+    "when": "1859"
+  },
+  {
+    "sentence": "Alan Turing died in Wilmslow on 7 June 1954.",
+    "who": "Alan Turing",
+    "did_what": "died",
+    "where": ["Wilmslow"],
+    "when": "7 June 1954"
+  },
+  {
+    "sentence": "Leonardo da Vinci painted the Mona Lisa in Florence.",
+    "who": "Leonardo da Vinci",
+    "did_what": "painted",
+    "where": ["Florence"],
+    "when": null
+  },
+  {
+    "sentence": "Nikola Tesla patented the AC induction motor in 1888.",
+    "who": "Nikola Tesla",
+    "did_what": "patented",
+    "where": [],
+    "when": "1888"
+  },
+  {
+    "sentence": "Rosalind Franklin died in London on 16 April 1958.",
+    "who": "Rosalind Franklin",
+    "did_what": "died",
+    "where": ["London"],
+    "when": "16 April 1958"
+  },
+  {
+    "sentence": "Napoleon Bonaparte died on Saint Helena on 5 May 1821.",
+    "who": "Napoleon Bonaparte",
+    "did_what": "died",
+    "where": ["Saint Helena"],
+    "when": "5 May 1821"
+  }
+]
